@@ -19,3 +19,5 @@ https://flashinfer.ai/
 https://www.baseten.co/
 
 https://www.assemblyai.com/
+
+https://unsloth.ai/
