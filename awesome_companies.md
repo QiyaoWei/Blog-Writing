@@ -21,3 +21,7 @@ https://www.baseten.co/
 https://www.assemblyai.com/
 
 https://unsloth.ai/
+
+https://physicalintelligence.company/
+
+https://www.synthlabs.ai/
